@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a41921ee.css",
+    "main.js": "/static/js/main.3d0de7d2.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/why-choose-us-img.jpg": "/static/media/why-choose-us-img.afb2571022e4d5a42915.jpg",
+    "static/media/couch.png": "/static/media/couch.7a344a6302c235396f60.png",
+    "static/media/sofa.png": "/static/media/sofa.86e59c0fb4f5199c977e.png",
+    "static/media/product-2.png": "/static/media/product-2.2c7c1dfd7461612e3886.png",
+    "static/media/product-3.png": "/static/media/product-3.9a7701e22aabf396c0f3.png",
+    "static/media/product-1.png": "/static/media/product-1.b3c19796dccb13fbd0b3.png",
+    "static/media/bg1.webp": "/static/media/bg1.94734e792037ddc32b70.webp",
+    "static/media/dots-yellow.svg": "/static/media/dots-yellow.bfc44818a1b6606dd7c1.svg",
+    "static/media/dots-light.svg": "/static/media/dots-light.e00bbd6fd2e7780c28c9.svg",
+    "static/media/support.svg": "/static/media/support.9d26dea71aab9142a5629d38f2287c2e.svg",
+    "static/media/truck.svg": "/static/media/truck.66e1c9ecc38ff585449d328dc23700fc.svg",
+    "static/media/envelope-outline.svg": "/static/media/envelope-outline.a75c498de4e44335919e66cd96296e67.svg",
+    "static/media/return.svg": "/static/media/return.d5d64cfebfacde8f05fd6c4bb3b51521.svg",
+    "static/media/bag.svg": "/static/media/bag.32d7cc1dfb3dabdcef4ccc1966a6b994.svg",
+    "index.html": "/index.html",
+    "static/media/cross.svg": "/static/media/cross.f55a0e29baa16101e78afdaa658f3afb.svg",
+    "main.a41921ee.css.map": "/static/css/main.a41921ee.css.map",
+    "main.3d0de7d2.js.map": "/static/js/main.3d0de7d2.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a41921ee.css",
+    "static/js/main.3d0de7d2.js"
+  ]
+}
